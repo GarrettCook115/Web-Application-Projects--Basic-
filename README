@@ -1,6 +1,6 @@
 Basic Tkinter implemented Python web applications regarding Windows and various OS command prompt executables. 
 
- FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address.
+ FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
  FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
 
  WndCmds.py is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
