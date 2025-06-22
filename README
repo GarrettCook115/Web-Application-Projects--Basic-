@@ -1,20 +1,20 @@
-# Basic Tkinter implemented python web appplications regarding windows and various OS command prompt executables. 
+Basic Tkinter implemented Python web applications regarding Windows and various OS command prompt executables. 
 
-# FlaskApp1.html Allows for the FlaskApp.py file to execute on a web browser at the given 127.0.0.1 loopback address.
-# FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
+ FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address.
+ FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
 
-# WndCmds.py is a basic (The First) implementation of this self made project. Firstly learning what different python libraries like Tkinter did, adn later creating small labels, 
-# buttons and subprocess connected inorder to make this simplistic application. Tkinter is a python library useful for small, simplistic widget creation with smalelr apps such as this. 
+ WndCmds.py is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
+ buttons, and subprocesses to make this simplistic application. Tkinter is a Python library useful for small, simplistic widget creation with smaller apps such as this. 
 
-#TkinterApp1.py is a cleaner variant of the WndCmds.py with more options and OS command selections besides Windows. 
-# It also implements a few run command selections such as Perfmonane monitoring, Windows verison and Event log viewer. "Based on what OS it's running on."
+TkinterApp1.py is a cleaner variant of WndCmds.py, offering more options and OS command selections beyond Windows. 
+It also implements a few run command selections such as Performance monitoring, Windows version, and Event log viewer. "Based on what OS it's running on."
 
-#Resources Utilized for self teaching and practice with Tkinter Library and Flask web application framework:
+Resources Utilized for self-teaching and practice with the Tkinter Library and the Flask web application framework:
 
-#Python libraries: https://docs.python.org/3/library/index.html
-#Tkinter projects and Practice: https://www.youtube.com/watch?v=MeMCBdnhvQs&list=PLs3IFJPw3G9IiHm9PEP1UaMtuvACmxVMj
-#Flask : https://www.youtube.com/watch?v=AgVqsmz-ZW4
+Python libraries: https://docs.python.org/3/library/index.html
+Tkinter projects and Practice: https://www.youtube.com/watch?v=MeMCBdnhvQs&list=PLs3IFJPw3G9IiHm9PEP1UaMtuvACmxVMj
+Flask: https://www.youtube.com/watch?v=AgVqsmz-ZW4
 
-
-#To execute the Flask.py File 
-# 1. Run it, 2. Ctrl + click the address to open the web browser. 
+To execute the Flask.py File 
+1. Run it, 
+2. Ctrl + click the address to open the web browser.
