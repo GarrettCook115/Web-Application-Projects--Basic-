@@ -1,5 +1,7 @@
 Basic Tkinter implemented Python web applications regarding Windows and various OS command prompt executables. 
 
+
+
  FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
  FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
 
@@ -15,6 +17,9 @@ Basic Tkinter implemented Python web applications regarding Windows and various 
  Tkinter projects and Practice: https://www.youtube.com/watch?v=MeMCBdnhvQs&list=PLs3IFJPw3G9IiHm9PEP1UaMtuvACmxVMj
  Flask: https://www.youtube.com/watch?v=AgVqsmz-ZW4
 
+
+Requirements: 
+IDE 
 To execute the Flask.py File 
 1. Run it,  
 2. Ctrl + click the address to open the web browser.
