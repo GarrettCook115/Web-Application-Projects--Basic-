@@ -1,15 +1,15 @@
 Basic Tkinter implemented Python web applications regarding Windows and various OS command prompt executables. 
 
-*Code Projects are executable by running code in IDE.*
+*Code Projects are executable by running code in an IDE*
 
  FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
  FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
 
  WndCmds.py is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
- buttons, and subprocesses to make this simplistic application. Tkinter is a Python library useful for small, simplistic widget creation with smaller apps such as this. 
+ buttons, and subprocesses to make this simplistic application. Tkinter is a Python library useful for creating small, simple widgets for smaller applications, such as this. 
 
  TkinterApp1.py is a cleaner variant of WndCmds.py, offering more options and OS command selections beyond Windows. 
- It also implements a few run command selections such as Performance monitoring, Windows version, and Event log viewer. "Based on what OS it's running on."
+ It also implements several run command selections, including Performance monitoring, Windows version, and Event log viewer. "Based on what OS it's running on."
 
  Resources Utilized for self-teaching and practice with the Tkinter Library and the Flask web application framework:
 
@@ -20,6 +20,9 @@ Basic Tkinter implemented Python web applications regarding Windows and various 
 
 Requirements: 
 IDE 
-To execute the Flask.py File 
+To execute the Flask.py File and the others as well
 1. Run it,  
-2. Ctrl + click the address to open the web browser.
+2. Ctrl + click the address to open the web browser. (Specifically for the FlaskApp.py file) The others run within a tkinter window with widgets. 
+WARNING - ONLY USE THESE APPLICATIONS ON TRUSTED AND HOME-OWNED NETWORKS!!!
+
+   
