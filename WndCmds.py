@@ -53,7 +53,8 @@ def ping():
     messagebox.showinfo("Ping Output",result.stdout)
 
 
-frame=tkinter.Frame(bg="white")        #Main Frame color and selection. Frame 1
+frame=tkinter.Frame(bg="Black")        #Main Frame color and selection. Frame 1
+
 
 title_label=tkinter.Label(frame,text="Click to execute a command",font = ("Arial",30))
 
