@@ -23,13 +23,17 @@ commands ={
         "System Info": "msinfo32.exe",
         "Performance Monitor": "Perfmon.msc",
         "System Version":"Winver",
-        "Event log view": "eventvwr.msc"
+        "Event log view": "eventvwr.msc",
+        "NetStat" : "Netstat",
+        "Track hops to youtube.com" : "Tracert -h 10 youtube.com"
     },
     "Linux":{
         "ARP Table":"arp -a",
         "IP addr TCP/IP Info": "ifconfig",
         "System's Uptime": "Uptime",
-        "Memory usage and space": "free"
+        "Memory usage and space": "free",
+        "netstat" : "netstat",
+        "nmap manual": "nmap man"
         
     },
     "Darwin":{
