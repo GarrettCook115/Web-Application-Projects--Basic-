@@ -4,6 +4,7 @@ Basic Tkinter implemented Python web applications regarding Windows and various 
 
  FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
  FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
+ 
 
  WndCmds.py is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
  buttons, and subprocesses to make this simplistic application. Tkinter is a Python library useful for creating small, simple widgets for smaller applications, such as this. 
@@ -23,6 +24,11 @@ IDE
 To execute the Flask.py File and the others as well
 1. Run it,  
 2. Ctrl + click the address to open the web browser. (Specifically for the FlaskApp.py file) The others run within a tkinter window with widgets. 
-WARNING - ONLY USE THESE APPLICATIONS ON TRUSTED AND HOME-OWNED NETWORKS!!!
 
-   
+
+FlaskApp : 
+1. Run the program in an IDE ,or from the FlaskAPP executable
+2. Go to the loopback address displayed in CMD prompt/Terminal on IDE and the dropdown should be displayed as such in the example images. (If any problems, rerun the app and try again) <--Quick Fix
+
+
+WARNING - ONLY USE THESE APPLICATIONS ON TRUSTED AND HOME-OWNED NETWORKS!!! For Educational Use ONLY!!!
