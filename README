@@ -1,7 +1,9 @@
 Basic Tkinter implemented Python web applications regarding Windows and various OS command prompt executables. 
 
-**Each executable File folder holds the .exe app for each project: If you just want to run it without looking at the code.**
-*Code Projects are executable by running code in an IDE*
+**Each executable File folder holds the .exe app for each project: If you just want to run it without looking at the code.** 
+
+**--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run**
+*Code Projects are executable by running code in an IDE**
 
  --FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
  FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
