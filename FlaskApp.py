@@ -10,7 +10,7 @@ if sys.platform =="win32":
         "ipconfig": "ipconfig ",
         "route ip paths/show reachable subnets": "route Print",
         "arp": "arp -a",
-        "nslookup": "nslookup google.com"
+        #"nslookup": "nslookup google.com"
     }
 else:
     command_map = {
