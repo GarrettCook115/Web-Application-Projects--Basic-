@@ -8,6 +8,7 @@ app = Flask(__name__)
 if sys.platform =="win32":
     command_map={
         "ipconfig": "ipconfig ",
+        "route ip paths/show reachable subnets": "route Print",
         "arp": "arp -a",
         "nslookup": "nslookup google.com"
     }
@@ -18,7 +19,7 @@ else:
         "nslookup": "nslookup google.com"
         
     }
-
+#Still udpating.
 def execute_command(cmd):
     result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
     return result.stdout
