@@ -1,6 +1,6 @@
 Basic Tkinter implemented Python web applications regarding Windows and various OS command prompt executables. 
 
-**Each executable File folder holds the .exe app for each project: If you just want to run it without looking at the code.** 
+__**Each executable File folder holds the .exe app for each project: If you just want to run it without looking at the code.**__
 
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run**
 *Code Projects are executable by running code in an IDE**
