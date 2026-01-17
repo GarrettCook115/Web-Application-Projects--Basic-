@@ -8,6 +8,7 @@ import kivy
 
 
 
+
 print(kivy.__version__)
 
 if sys.platform != "win32":

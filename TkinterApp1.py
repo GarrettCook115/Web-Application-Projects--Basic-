@@ -1,7 +1,10 @@
 import tkinter
+import hashlib
 import subprocess
 from tkinter import messagebox, ttk
-import platform #Detects which OS is being utilized 
+import platform
+
+ #Detects which OS is being utilized 
 #Identifies current OS and lists specific commands based on active OS. 
 #OS Detectiong
 os_name=platform.system()
@@ -25,7 +28,8 @@ commands ={
         "System Version":"Winver",
         "Event log view": "eventvwr.msc",
         "NetStat" : "Netstat",
-        "Track hops to youtube.com" : "Tracert -h 10 youtube.com"
+        "Track hops to youtube.com" : "Tracert -h 10 youtube.com",
+        "Show available subnet routing paths" : "Route print"
     },
     "Linux":{
         "ARP Table":"arp -a",
