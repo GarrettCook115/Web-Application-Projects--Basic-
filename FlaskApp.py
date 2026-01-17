@@ -8,9 +8,9 @@ app = Flask(__name__)
 if sys.platform =="win32":
     command_map={
         "ipconfig": "ipconfig ",
-        "route ip paths/show reachable subnets": "route Print",
+        # "route ip paths/show reachable subnets": "route Print",
         "arp": "arp -a",
-        #"nslookup": "nslookup google.com"
+        "nslookup": "nslookup google.com"
     }
 else:
     command_map = {
