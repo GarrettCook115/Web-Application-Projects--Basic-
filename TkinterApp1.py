@@ -29,7 +29,7 @@ commands ={
         "Event log view": "eventvwr.msc",
         "NetStat" : "Netstat",
         "Track hops to youtube.com" : "Tracert -h 10 youtube.com",
-        "Show available subnet routing paths" : "Route print"
+        "Show subnet routes" : "Route print"
     },
     "Linux":{
         "ARP Table":"arp -a",
