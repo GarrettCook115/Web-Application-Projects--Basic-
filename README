@@ -5,14 +5,13 @@ __**Each executable File folder holds the .exe app for each project: If you just
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run**
 *Code Projects are executable by running code in an IDE**
 
- --FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
+ -- FlaskApp Executable (Folder), FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
  FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
  
-
- --WndCmds.py is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
+ -- WndCmds Packaged (Folder), WndCmds.py is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
  buttons, and subprocesses to make this simplistic application. Tkinter is a Python library useful for creating small, simple widgets for smaller applications, such as this. 
 
- --TkinterApp1.py is a cleaner variant of WndCmds.py, offering more options and OS command selections beyond Windows. 
+ -- TkinterApp1 Executable (Folder), TkinterApp1.py is a cleaner variant of WndCmds.py, offering more options and OS command selections beyond Windows. 
  It also implements several run command selections, including Performance monitoring, Windows version, and Event log viewer. "Based on what OS it's running on."
 
  Resources utilized for self-teaching and practice with the Tkinter Library and the Flask web application framework:
