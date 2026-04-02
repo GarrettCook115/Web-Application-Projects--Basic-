@@ -1,6 +1,6 @@
 Basic Tkinter-based Python web applications for Windows and various OS command-line executables. 
 
-__**Each executable File folder holds the .exe app for each project of the three: If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS IT'S REQUIRED FOR THE FUNCTIONALITY OF EAC ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK**__
+__**Each executable File folder holds the .exe app for each project of the three: If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK**__
 
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run** DOWNLOAD BOTH IF USING THIS METHOD."
 *Code Projects are executable by running code in an IDE**
