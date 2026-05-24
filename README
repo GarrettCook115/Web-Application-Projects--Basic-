@@ -5,14 +5,14 @@ __Each executable File folder holds the .exe app for each project of the three: 
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run** DOWNLOAD BOTH IF USING THIS METHOD."
 *Code Projects are executable by running code in an IDE**
 
- --FlaskApp1.html enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
+ __FlaskApp1.html__ enables the FlaskApp.py file to execute in a web browser at the specified 127.0.0.1 loopback address. "The FlaskApp1.html must be in a folder called (templates) or else running the FlaskApp.py won't execute on the browser."
  FlaskApp.py uses the Flask framework for simplistic web development features and interoperability between Linux and Windows OSes. 
  
 
- --WndCmds.py is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
+ __WndCmds.py__ is a basic (The First) implementation of this self-made project. Firstly, learning what different Python libraries like Tkinter did, and later creating small labels, 
  buttons, and subprocesses to make this simplistic application. Tkinter is a Python library useful for creating small, simple widgets for smaller applications, such as this. 
 
- --TkinterApp1.py is a cleaner variant of WndCmds.py, offering more options and OS command selections beyond Windows. 
+ __PocketCommand.py__ is a cleaner variant of WndCmds.py, offering more options and OS command selections beyond Windows. 
  It also implements several run command selections, including Performance monitoring, Windows version, and Event log viewer. "Based on what OS it's running on."
 
  Resources utilized for self-teaching and practice with the Tkinter Library and the Flask web application framework:
@@ -22,7 +22,7 @@ __Each executable File folder holds the .exe app for each project of the three: 
  Flask: https://www.youtube.com/watch?v=AgVqsmz-ZW4
 
 
-Requirements: 
+__Requirements:__
 IDE 
 To execute the Flask.py File and the others as well
 1. Run it,  
@@ -34,11 +34,11 @@ FlaskApp :
 2. Go to the loopback address displayed in the CMD prompt/Terminal on the IDE, and the dropdown should be displayed as such in the example images. (If any problems, rerun the app and try again) <--Quick Fix
 
 
-WARNING - ONLY USE THESE APPLICATIONS ON TRUSTED AND HOME-OWNED NETWORKS!!! For Educational Use ONLY!!!
+__WARNING__ - ONLY USE THESE APPLICATIONS ON TRUSTED AND HOME-OWNED NETWORKS!!! For Educational Use ONLY!!!
 
-Completed Released App with frequent updates: https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/releases/tag/v1.0.0
+__Completed Released App with frequent updates:__ https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/releases/tag/v1.0.0
 
-Source files if you want to download: Or jsut check the code in the main repos.:
+Source files if you want to download: Or just check the code in the main repos.:
 
 **TKINTERApp1 Internal File:** https://downgit.github.io/#/home?url=https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/tree/main/TkinterApp1%20Executable/_internal
 **TKINTERApp1 .exe file "APP itself":** https://downgit.github.io/#/home?url=https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/blob/main/TkinterApp1%20Executable/TkinterApp1.exe     <----Will not work unless you also have the internal file downloaded as well.
