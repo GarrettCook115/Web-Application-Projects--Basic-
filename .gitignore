@@ -1,6 +1,7 @@
 #ignores folder dependencies of build file
 build/
-# use these commands in order to accomplish this
-#git rm -r --cached "fodlername/"
-#git commit -m "Remove build from Git tracking"
-#git add gitignore
+#use these in order to accomplish 
+#git rm -r --cached "foldername/"
+#git add .gitignore
+#git commit -m "Remove foldername from Git tracking" or "Stop tracking Foldername" or "add foldername to .gitignore"
+#git push
