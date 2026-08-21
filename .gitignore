@@ -1,0 +1,3 @@
+#ignores folder dependencies of build file
+build/
+dist/
