@@ -1,6 +1,6 @@
 __Basic Tkinter-based Python web applications for Windows and various OS command-line executables.__
 
-__Each executable File folder holds the .exe app for each project of the three: If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
+__Each executable File folder holds the .exe app for each project of the three. If you want to run it without looking at the code. YOU MUST ALSO DOWNLOAD THE INTERNAL FILES, AS THEY'RE REQUIRED FOR THE FUNCTIONALITY OF EACH ALSO. IF YOU DOWNLOAD AN .EXE FILE YOU MUST ALSO DOWNLOAD ITS "INTERNAL" FOLDER ALSO, OR IT WILL NOT WORK__
 
 **--Must run each executable app within its designated folder containing "_internal folder" to function. *IF not, nothing will execute/run** DOWNLOAD BOTH IF USING THIS METHOD."
 *Code Projects are executable by running code in an IDE**
@@ -43,8 +43,11 @@ Source files if you want to download: Or just check the code in the main repos.:
 **TKINTERApp1 Internal File:** https://downgit.github.io/#/home?url=https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/tree/main/TkinterApp1%20Executable/_internal
 **TKINTERApp1 .exe file "APP itself":** https://downgit.github.io/#/home?url=https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/blob/main/TkinterApp1%20Executable/TkinterApp1.exe     <----Will not work unless you also have the internal file downloaded as well.
 
-
-![Screenshot](https://raw.githubusercontent.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/main/Screenshot%202026-04-02%20194725.png)
+__WndCmds.py Version ( first Iteration)__
 <img width="1761" height="507" alt="Screenshot 2026-09-01 194708" src="https://github.com/user-attachments/assets/cf84325a-0297-4b06-8ee3-a46245504325" />
+
+__Current Version__
+![Screenshot](https://raw.githubusercontent.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS/main/Screenshot%202026-04-02%20194725.png)
+
 
 
